@@ -59,6 +59,7 @@ class Student
     SELECT *
     FROM students
     WHERE grade = 9
+    SQL
   end
 
   def self.all_students_belo
